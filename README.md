@@ -2,7 +2,7 @@
 	<p align=center>
 	<img src="./readme.png">
 	</p>
-	<h1><a href="#">Website</a></h1>
+	<h1><a href="https://surgoi.github.io/SurGOI">Website</a></h1>
 </div>
 
 # StationFM
